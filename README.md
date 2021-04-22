@@ -1,3 +1,4 @@
+
 # Welcome
 
 CharlestonJS Meetup Nodejs
@@ -12,14 +13,13 @@ CharlestonJS Meetup Nodejs
   - Experimental Web Crypto API
   - Prebuilt M1 Support
 * Presentation
+  - Architect https://arc.codes
 
 ---
 
 # Intro to Architect :sparkles:
 
 a different approach to the web server
-
-
 
 ---
 
@@ -101,4 +101,31 @@ open app.arc
 * src/shared folder
 * src/views folder
 
+
+---
+
+## Deploy
+
+> NOTE: You will need an aws account and `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY`
+
+---
+
+## More :zap:
+
+* notify events
+* pub/sub queues
+* scheduled tasks
+
+---
+
+## Show Example
+
+--- 
+
+## Questions :dog:
+
+Thank you!
+
+Looking for a service framework?
+checkout: https://hyper.io 
 
